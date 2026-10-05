@@ -1,0 +1,21 @@
+     3.04           O                   G                   RINEX VERSION / TYPE
+PYSAMPLE                              EXAMPLE               PGM / RUN BY / DATE 
+Synthetic two-epoch GPS example                             COMMENT             
+G  14  C1C L1C D1C S1C C1W L1W D1W S1W C2W L2W D2W S2W C2L  SYS / # / OBS TYPES 
+         L2L                                                SYS / # / OBS TYPES 
+  -2148664.000   4426581.000   4044701.000                  APPROX POSITION XYZ 
+  2024     1     1     1     0    0.0000000     GPS         TIME OF FIRST OBS   
+     0                                                      RCV CLOCK OFFS APPL 
+                                                            END OF HEADER       
+> 2024  1  1  1  0   0.0000000  0   5                                           
+G01  25997386.866                                                                                                                                                                                                                  
+G02  25997336.787                                                                                                                                                                                                                  
+G03  25997373.981                                                                                                                                                                                                                  
+G04  25997349.672                                                                                                                                                                                                                  
+G05  25997377.474                                                                                                                                                                                                                  
+> 2024  1  1  1  0  30.0000000  0   5                                           
+G01  25997386.866                                                                                                                                                                                                                  
+G02  25997336.787                                                                                                                                                                                                                  
+G03  25997373.981                                                                                                                                                                                                                  
+G04  25997349.672                                                                                                                                                                                                                  
+G05  25997377.474                                                                                                                                                                                                                  
